@@ -1,4 +1,4 @@
-- Hi, I’m @tairitsuwu. However, I'm "abillionpaperflowers" on almost all other socials.
+- Hi, I’m @tairitsuwu. However, I'm @abillionpaperflowers on almost all other socials.
 - I’m interested in visual art, data science, and game development.
 - I’m currently learning more about Ren'Py! Also considering relearning R as well as Godot or ct.js engine documentation.
 - Email me at abillionpaperflowers@gmail.com
