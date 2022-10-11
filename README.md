@@ -1,4 +1,4 @@
-Hi, I’m @tairitsuwu. However, I'm [@abillionpaperflowers](https://axiomoftheend.carrd.co) on almost all other socials.
+Hi, I’m @tairitsuwu. However, I'm [@abillionpaperflowers](https://abillionpaperflowers.carrd.co) on almost all other socials.
 I’m interested in visual art, data science, and game development.
 I’m currently learning more about Ren'Py! Also learning C# and Unity, and looking into quantum computing.
 Email me at abillionpaperflowers@gmail.com
