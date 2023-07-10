@@ -1,6 +1,6 @@
 Hey, I'm butterflylaceration, better known as "abillionshiningstars" on Instagram.
-I’m interested in quantum computing, visual art, data science, and game development. Overall, I'm just a software enthusiast trying my best.    
-I code in Python, Swift, C++ and C#.
+
+I'm a Year 10 student, and my main research interest is in quantum computing.
 
 Contact me at abillionpaperflowers@gmail.com or @/nullevent on discord
 
