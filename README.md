@@ -1,8 +1,8 @@
-Hey, I'm butterflylaceration, better known as "abillionshiningstars" on Instagram.
+Hey, I'm thestarsgetdark (known as butterflylaceration on some info sites hehe)
 
-I'm a Year 10 student, and my main research interest is in quantum computing.
+I'm a Year 11 student, and my main research interest is in quantum computing.
 
-Contact me at abillionpaperflowers@gmail.com | akira.li146@gmail.com or @/nullevent on discord
+Contact me at akira.li146@gmail.com
 
 <!---
 tairitsuwu/tairitsuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
