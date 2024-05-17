@@ -1,8 +1,6 @@
-Hey, I'm known as butterflylaceration on some info sites so I'm sticking with it.
+Hey, I'm *butterflylaceration*. My real name's Akira, but you can call me whatever nickname you're able to come up with. I'm a Year 11 student, and my main research interest is in quantum information. There is nothing else particularly interesting about my character.
 
-I'm a Year 11 student, and my main research interest is in quantum computing.
-
-Contact me at akira.li146@gmail.com or ask me for my ProtonMail.
+Contact me at akira.li146@gmail.com or ask me for my ProtonMail. 
 
 <!---
 tairitsuwu/tairitsuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
