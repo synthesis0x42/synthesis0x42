@@ -7,8 +7,8 @@
 -->
 ###
 
-<p align="left">hi, I'm afterworldsimulacra/afterworld/afterwrlds, call me any of those 3 online. I am a 17 year old in his last year of high school. my research interests are quantum computing, fully homomorphic encryption, ai/ml theory, etc. I am still learning all of them.</p>
-<p align="left">conceptually, I am interested in infinite state automata, artificial consciousness, and simulated godhood.</p>
+<p align="left">hi, I'm afterworldsimulacra/afterworld/afterwrlds, call me any of those 3 online. I am 17 years old and am in my last year of high school. my research interests are quantum computing, fully homomorphic encryption, ai/ml theory, etc. I am still learning all of them.</p>
+<p align="left">conceptually, I am interested in infinite state automata, artificial consciousness, and simulated godhood. my pronouns are he/him and I speak english + japanese.</p>
 
 
 ###
