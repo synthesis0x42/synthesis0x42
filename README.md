@@ -1,5 +1,5 @@
 
-<h2 align="right"><code>~/infinite_state_machine_angel.txt</code></h2>
+<h3 align="right"><code>~/infinite_state_machine_angel.txt</code></h3>
 
 <!-- <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
