@@ -14,9 +14,9 @@
 ###
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afterworldsimulacra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afterworldsimulacra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=material-palenight&hide_border=false&order=2" height="120" alt="languages graph"  />
   <p align="left">most of my work is in jupyter notebooks, which I use vsc for. otherwise, I use nvim because it looks nice. (macos btw.) I also know some C++ for competitive programming.</p>
-  <p align="left">to contact me, my email is afterworldsimulacra@proton.me</p>
+  <p align="left">to contact me, my email is <a href="mailto:afterworldsimulacra@proton.me" >afterworldsimulacra@proton.me</a>.</p>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afterworldsimulacra.afterworldsimulacra&left_color=antiquewhite&right_color=steelblue" />
 
 </div>
