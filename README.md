@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">most of my work is in jupyter notebooks, which I use vsc for. otherwise, I use nvim because it looks nice. macos btw. </p>
+<p align="left">most of my work is in jupyter notebooks, which I use vsc for. otherwise, I use nvim because it looks nice. macos btw. I also know some C++ for competitive programming.</p>
 
 ###
 
