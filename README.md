@@ -1,10 +1,34 @@
-suboptimal.
-<!---
-Hey, I'm *afterworldsimulacra*. I'm a Year 11 student, and my main research interest is in quantum information. There is nothing else particularly interesting about my character.
+<h2 align="right">~/infinite_state_machine_angel.exe</h2>
 
-Contact me at afterworldsimulacra@proton.me
+###
 
-tairitsuwu/tairitsuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
---->
+<!-- <div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+-->
+###
+
+<p align="left">hi, I'm afterworldsimulacra/afterworld/afterwrlds, call me any of those 3 online. I am a 17 year old in his last year of high school. my research interests are quantum computing, fully homomorphic encryption, ai/ml theory, etc.</p>
+<p align="left">conceptually, i am interested in infinite state automata, artificial consciousness, and simulated godhood.</p>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afterworldsimulacra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+###
+
+<p align="left">most of my work is in jupyter notebooks, which I use vsc for. otherwise, I use nvim because it looks nice. macos btw. </p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/afterworldsimulacra/count.svg?"  />
+</div>
+
+###
