@@ -1,34 +1,5 @@
+<h4 align="right"><code>/~0x42</code></h3>
 
-<h3 align="right"><code>~/infinite_state_machine_angel.txt</code></h3>
+Hi, I conduct research in quantum computing miscellania. I am also in my last year of high school. Feel free to email me for my resume, or [schedule a call with me](https://cal.com/fractalmachina/professional). conceptually, I am interested in infinite state automata, artificial consciousness, and simulated divinity. you may define those things for yourself. side interests include e2e encryption, and *very occasionally* we do some dabbling in x86 assembly.
 
-<!-- <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
--->
-###
-
-<p align="left">hi, I'm afterworldsimulacra/afterworld/afterwrlds, call me any of those 3 online. I am 17 years old and am in my last year of high school. my research interests are quantum computing, fully homomorphic encryption, ai/ml theory, etc. I am still learning all of them, and I am most proficient at and interested in quantum computing.</p>
-<p align="left">conceptually, I am interested in infinite state automata, artificial consciousness, and simulated godhood. my pronouns are he/him and I speak english + japanese.</p>
-
-
-###
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afterworldsimulacra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=material-palenight&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <p align="left">most of my work is in jupyter notebooks, which I use vsc for. otherwise, I use nvim because it looks nice. (macos btw.) I also know some C++ for competitive programming.</p>
-  <p align="left">to contact me, my email is <a href="mailto:afterworldsimulacra@proton.me" >afterworldsimulacra@proton.me</a>.</p>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=afterworldsimulacra.afterworldsimulacra&left_color=antiquewhite&right_color=steelblue" />
-
-</div>
-
-###
-
-
-###
-
-
-
-###
-
-
-###
+I am most active in a professional sense on [misskey forks](https://bytes.programming.dev/@0x42), and I try to keep my software and visual art/non-STEM life separate (though if you are curious, do feel free to have a chat.)
