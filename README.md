@@ -20,5 +20,5 @@ I66tIsa5AQDlFt1lzGl2SPNfsJDTLlhYj0CCTrGjhMqge4fz3MUsPgD/dRgX
 80QOdN+fDI1SwZdjt0+Z4+jVhhBTiOha1VJ09w8=
 =2pEQ
 -----END PGP SIGNATURE-----</code>
-
+<a rel="me" href="https://bytes.programming.dev/@0x42"/>
 
