@@ -7,10 +7,8 @@ Hi, I conduct research in quantum computing miscellania. I am also in my last ye
 I am most active in a professional sense on Misskey forks, but I'm migrating instances at the moment, kind of? Long story.
 
 My opinions are my own and not representative of my employers. 
+<p>   </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=synthesis0x42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=synthesis0x42&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<p>.<p>.<p>.
-</p>
 also my pgp key broke
