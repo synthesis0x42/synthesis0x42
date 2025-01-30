@@ -8,6 +8,8 @@ I am most active in a professional sense on Misskey forks, but I'm migrating ins
 
 My opinions are my own and not representative of my employers. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=synthesis0x42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p>.<p>.<p>.
 </p>
