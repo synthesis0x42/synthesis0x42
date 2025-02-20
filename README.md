@@ -1,7 +1,7 @@
 <h3 align="right"><code>/~＊-42λ</code></h3>
 
 
-hi, I conduct research in quantum computing miscellania. I am also 17 years old, in my last year of high school. feel free to email me for my resume, or [schedule a call with me](https://cal.com/fractalmachina/professional). conceptually, I am interested in artificial consciousness, divine simulacra, and rationality. you may define those things for yourself. side interests include e2e encryption, and *very occasionally* we do some dabbling in x86 assembly, not in the public eye. I like FOSS.
+hi, I conduct research in quantum computing miscellania. I am also 17 years old, in my last year of high school. feel free to email me, [check out my resume](https://github.com/synthesis0x42/resume/blob/main/Resume_CV_0x42.pdf), or [schedule a call with me](https://cal.com/fractalmachina/professional). conceptually, I am interested in artificial consciousness, divine simulacra, and rationality. you may define those things for yourself. side interests include e2e encryption, and *very occasionally* we do some dabbling in x86 assembly, not in the public eye. I like FOSS.
 
 I am most active in a professional sense on Misskey forks, but I'm migrating instances at the moment, kind of? Long story.
 
