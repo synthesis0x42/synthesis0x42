@@ -5,7 +5,7 @@ hi, I conduct research in quantum computing miscellania. I am also 17 years old,
 
 I am most active in a professional sense on Misskey forks, but I'm migrating instances at the moment, kind of? Long story.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=synthesis0x42&theme=onedark&no-bg=true&margin-w=12&rank=-B,-C,-?&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=synthesis0x42&theme=onedark&no-bg=true&margin-w=12&rank=-B,-C,-?&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 my opinions are my own and not representative of my employers.
 
