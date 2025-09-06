@@ -1,7 +1,7 @@
 <h3 align="right"><code>/~＊-42λ</code></h3>
 
 
-hi, I conduct research in quantum computing miscellania. feel free to email me at (either _ or akr-) (at) synthesis0x42.digital. side interests include e2e encryption, and *very occasionally* we do some dabbling in x86 assembly, not in the public eye. I like FOSS.
+hi, I am an enthusiast in quantum computing miscellania. feel free to email me at (either _ or akr-) (at) synthesis0x42.digital. side interests include e2e encryption, and *very occasionally* we do some dabbling in x86 assembly, not in the public eye. I like FOSS.
 
 I am most active in a professional sense on Misskey forks, specifically on [@0x42@miruku.cafe](https://miruku.cafe/@0x42)! Come chat with me there.
 
