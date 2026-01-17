@@ -1,4 +1,4 @@
-<h3 align="right"><code>/~0x42</code></h3>
+<h3><code>/~0x42</code></h3>
 
 i love quantum infosci and that is all you need to know about me
 
