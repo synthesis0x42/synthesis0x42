@@ -28,6 +28,8 @@ macOS btw.
 
 </p>
 
+$${\color{lightgreen}GitHub\ trophies\ and\ skills}$$  
+
 
 <div align = "center">
 
@@ -41,14 +43,21 @@ macOS btw.
 <p></p>
 
 <p>
-
+</div>
 
 <div align="center">· • ————–——— ٠ ✤ ٠ —–—————— • ·</div>
 <p> 
 
-</p>
+$${\color{lightgreen}bonus}$$  
 
-**linked buttons**  
+
+</p>
+<div align = "center">
+
+
+first row of 88x31s are linked, second are unlinked.
+
+
 <div style="display:flex;flex-wrap:wrap">
 
 <a href="https://torproject.org"><img src="https://synthesis0x42.digital/88x31/tor.gif" alt="tor"></a>
@@ -63,8 +72,8 @@ macOS btw.
 
 	
 </div>
+<p></p>
 
-**unlinked**  
 <div style="display:flex;flex-wrap:wrap">
 <img src="https://highway.eightyeightthirty.one/badge/16306307225152d12b7a8b222d34e9b4e32936ba0502f14ddb23b76a5d1a37a5">
    <img src="https://adriansblinkiecollection.neocities.org/buttons/4.jpg">
