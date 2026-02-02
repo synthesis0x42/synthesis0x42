@@ -17,7 +17,7 @@ researcher and enthusiast in quantum software miscellania, main experience is in
 
 as for classical cs, vaguely into cybersec/encryption, machine learning, a little webdev. generally focused on quantum cs, so don't expect much in this regard. might look into getting back into informatics. affiliated with [@lumia0x64](https://github.com/lumia0x64) who mainly does ctfs.
 
-also a part-time dancer, interactive fiction and rhythm game lover, ~~professional performative male~~ matcha and chai enjoyer (i also like the taste of dubai chocolate, sue me), mental health and invisible disability advocate, low-level nootropic enthusiast / biohacker, and collector of 88x31s. made of love and information.
+also a part-time dancer, interactive fiction and rhythm game lover, ~~professional performative male~~ matcha and chai enjoyer (i also like the taste of dubai chocolate, sue me), mental health and invisible disability advocate, and low-level nootropic enthusiast / biohacker. made of love and information.
 
 please initiate contact via university email, [akli0908@uni.sydney.edu.au](mailto:akli0908@uni.sydney.edu.au). **discord** and **signal** are available on request, both of which are the preferred modes of communication. you could also contact this one on matrix [@0x42:imagisphe.re](matrix.to/#/@0x42:imagisphe.re), or XMPP at 0x42@lain.rocks which are not frequently checked but also can be main mode of communication on request. would love to chat, i like connecting with people.
 
