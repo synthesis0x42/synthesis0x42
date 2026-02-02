@@ -68,25 +68,19 @@ first row of 88x31s are linked, second are unlinked.
 <a href="https://matrix.org"><img src="https://highway.eightyeightthirty.one/badge/07b308c52454b1314c4b84d37874399039cb9539ad641b3badbea126df7d45af" alt="matrix"></a>
 <a href="https://lainchan.org/%CE%BB/index.html"><img src="https://synthesis0x42.digital/88x31/lainchan.gif" alt="lain chan"></a>
 <a href="https://getmonero.org"><img src="https://highway.eightyeightthirty.one/badge/662ffacb38c7a0414a5783f68b1218e087fbd486fe57c7ed2a5d216eeca60920" alt="monero NOW"></a>
-<a href="https://nightfall.city/"><img src="https://highway.eightyeightthirty.one/badge/0e3f73827c74a30e3d3318f378b1808a1e38cf1e0e78221ae8170a10d7b44a5c"></a>
 <a href="https://www.nicovideo.jp/watch/sm8628149"><img src="https://deniz.blue/assets/img/88x31/bad-apple-optimized.gif"></a>
-<a href="https://corru.observer"><img src="https://corru.observer/8831.gif" alt="corru observer"></a>
-<a href="https://www.nicovideo.jp/watch/sm32492001"><img src="https://synthesis0x42.digital/88x31/akane.png"></a>
 
 	
 </div>
 <p></p>
 
 <div style="display:flex;flex-wrap:wrap">
-<img src="https://highway.eightyeightthirty.one/badge/16306307225152d12b7a8b222d34e9b4e32936ba0502f14ddb23b76a5d1a37a5">
-   <img src="https://adriansblinkiecollection.neocities.org/buttons/4.jpg">
 <img src="https://synthesis0x42.digital/88x31/lain.gif" alt="lain">
+	<img src="https://highway.eightyeightthirty.one/badge/16306307225152d12b7a8b222d34e9b4e32936ba0502f14ddb23b76a5d1a37a5">
    <img src="https://synthesis0x42.digital/88x31/htmldream.gif" alt="I dream in html">
 <img src="https://88x31.kate.pet/plural_ALT.png" height="31" />
 <img src="https://synthesis0x42.digital/88x31/void.png" alt="powered by the void">
-   <img src="https://qalle.neocities.org/88x31/pride-autism-fullcolour.png">
 <img src="https://synthesis0x42.digital/88x31/button-milktea.gif" alt="milk tea NOW!">
-<img src="https://qalle.neocities.org/88x31/pride-disability.png">
 
   
   </div>
