@@ -13,13 +13,13 @@ $${\color{lightgreen}designation\ 0x42\ |\ Akira \ Li}$$
 <p>
 
 <i>advanced science (discrete maths & algorithms / physics) @ the university of sydney.</i>  
-researcher and enthusiast in quantum software miscellania, main experience is in quantum control and characterisation (state estimation, quantum error) but interested in all elements of quantum information science! see public archives of code below.  
+researcher and enthusiast in quantum software miscellania, main experience is in quantum control and characterisation (state estimation, quantum error) but interested in all elements of quantum information science! i'm also part of the 42nd [emergent ventures](https://www.mercatus.org/emergent-ventures) cohort (awarded for quantum computing research). if you're at all interested in my work, public code archives are here.  
 
 as for classical cs, vaguely into cybersec/encryption, machine learning, a little webdev. generally focused on quantum cs, so don't expect much in this regard. might look into getting back into informatics. affiliated with [@lumia0x64](https://github.com/lumia0x64) who mainly does ctfs.
 
 also a part-time dancer, interactive fiction and rhythm game lover, ~~professional performative male~~ matcha and chai enjoyer (i also like the taste of dubai chocolate, sue me), mental health and invisible disability advocate, and low-level nootropic enthusiast / biohacker. made of love and information.
 
-please initiate contact via university email, [akli0908@uni.sydney.edu.au](mailto:akli0908@uni.sydney.edu.au). **discord** and **signal** are available on request, both of which are the preferred modes of communication. you could also contact this one on matrix [@0x42:imagisphe.re](matrix.to/#/@0x42:imagisphe.re), or XMPP at 0x42@lain.rocks which are not frequently checked but also can be main mode of communication on request. would love to chat, i like connecting with people.
+please initiate contact via university email, [akli0908@uni.sydney.edu.au](mailto:akli0908@uni.sydney.edu.au) or message my xmpp address at 0x42@lain.rocks (not an email). **discord** and **signal** are available on request, both of which along with **xmpp** are the preferred modes of communication. would love to chat, i like connecting with people.
 
 macOS btw.
 
