@@ -33,7 +33,7 @@ $${\color{lightgreen}GitHub\ trophies\ and\ skills}$$
 
 
 
-  [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=synthesis0x42&theme=onedark&rank=-C,-?&no-bg=true&margin-w=12&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy-unserori.vercel.app/?username=synthesis0x42&theme=onedark&rank=-C,-?&no-bg=true&margin-w=12&no-frame=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div style="display:flex;flex-wrap:wrap">
